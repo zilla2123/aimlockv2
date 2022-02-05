@@ -92,7 +92,7 @@ Prefabs.BackgroundColor3 = Color3.new(1, 1, 1)
 Prefabs.Size = UDim2.new(0, 100, 0, 100)
 Prefabs.Visible = false
  
-Label.Name = "sideaim.cc"
+Label.Name = "Label"
 Label.Parent = Prefabs
 Label.BackgroundColor3 = Color3.new(1, 1, 1)
 Label.BackgroundTransparency = 1
